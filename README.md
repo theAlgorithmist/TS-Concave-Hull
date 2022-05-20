@@ -4,6 +4,8 @@ This is a  TypeScript implementation of the concave hull algorithm [described in
 
 Several of the _concaveman_ dependencies were also hand-ported to TypeScript.  So, you will see _RBush_ [https://www.npmjs.com/package/rbush](https://www.npmjs.com/package/rbush) renamed and ported as _RTree_ in the current implementation.  The current _RTree_ implementation is not templatized; it is optimized for use in the concave hull algorithm.
 
+NOTE:  This repo is no longer active.  The Concave Hull has been updated and moved to [the AMYR Library](https://github.com/theAlgorithmist/AMYR).  This repo is left open for historical purposes.
+
 Author:  Jim Armstrong - [The Algorithmist]
 
 @algorithmist
